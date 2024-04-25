@@ -1,7 +1,7 @@
 ### Hi, I'm Megha!👋
 
 👩‍🎓Btech student at VISAT Engineering College, Ernakulam<br/>
-👩🏻‍💻CEO of [IEDC VISAT](https://visat.in/)<br/>
+👩🏻‍💻Chief Executive Officer of [IEDC VISAT](https://visat.in/)<br/>
 🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
 🌹Currently learning about SOL, OOPs, DBMS, Database Design, Database Modeling, Testing and Automation
 <br/>
