@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi, I'm Megha!👋
 
+👩‍🎓Btech student at VISAT Engineering College, Ernakulam<br/>
+👩🏻‍💻CEO of [IEDC VISAT](https://visat.in/)<br/>
+🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
+🌹Currently learning about SOL, OOPs, DBMS, Database Design, Database Modeling, Testing and Automation
+<br/>
+<br/>
+
+[![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **megha-ranjith/megha-ranjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
