@@ -5,7 +5,6 @@
 🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
 🌹Currently learning about SOL, OOPs, DBMS, Database Design, Database Modeling, Testing and Automation
 <br/>
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
