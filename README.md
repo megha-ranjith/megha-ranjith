@@ -5,7 +5,7 @@
 👩🏻‍💻Chief Executive Officer of [IEDC VISAT](https://visat.in/)<br/>
 🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
 🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
-<br/
+<br/>
 
 <!--
 <h3 align="left">Connect with me:</h3>
