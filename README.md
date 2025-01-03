@@ -8,7 +8,7 @@
 <br/>
 
 <!-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://codepen.io/@megha-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@megha-r" height="30" width="40" /></a>
 <a href="https://twitter.com/___me_ghx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___me_ghx_" height="30" width="40" /></a>
