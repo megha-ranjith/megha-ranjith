@@ -2,7 +2,7 @@
 <h2>Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 👩‍🎓Btech student at VISAT Engineering College, Ernakulam<br/>
-👩🏻‍💻Chief Executive Officer of [IEDC VISAT](https://visat.in/)<br/>
+👩🏻‍💻Chief Executive Officer of [IEDC VISAT] (https://visat.in/)<br/>
 🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
 🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
 
