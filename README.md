@@ -1,11 +1,12 @@
 
-<h2>Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h2>
+<h1 align="center">Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 👩‍🎓Mtech student at MA College of Engineering, Koothamangalam<br/>
 🎨Making videos about computer science, tech, productivity and more on [Youtube](https://www.youtube.com/channel/UCefgtpc2626NPGFskpzn41A)<br/>
 🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
 
 <br/>
+<br>
   
 <!--
 [![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
@@ -19,6 +20,8 @@
 <h3 align="left">Knock Knock</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/megharanjith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/megharanjith" /></a></p><br><br>
 -->
+ ![](https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&count_private=true&theme=darcula&hide_bordertrue&hide=issues,contribs&bg_color=00000000">
