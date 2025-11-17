@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 👩‍🎓Mtech student at MA College of Engineering, Koothamangalam<br/>
-🎨Making videos about computer science, tech, productivity and more on [Youtube](UCfSYfLCakh1aPJtLZLNN_7A)<br/>
+🎨Making videos about computer science, tech, productivity and more on (https://www.youtube.com/@officiallymegh)<br/>
 🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
 
 <br/>
