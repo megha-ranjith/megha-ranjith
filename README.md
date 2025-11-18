@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%23F7F7F7&center=true&vCenter=true&width=500&height=40&lines=🚀+Computer+Science+and+Engineering+Student+;🔧+Exploring+Tech+%26+Coding" alt="Typing SVG">
+</p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 👩‍🎓Mtech student at MA College of Engineering, Koothamangalam<br/>
 🎨Making videos about computer science, tech, productivity and more on (https://www.youtube.com/@officiallymegh)<br/>
