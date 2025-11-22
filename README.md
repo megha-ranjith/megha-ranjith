@@ -1,10 +1,5 @@
-<!-- <img src="images/svg/header_en.svg"></img> -->
-<h1 align="center">Hi, I'm Megha! <samp> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp></h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=%23F7F7F7&center=true&vCenter=true&width=500&height=40&lines=🚀+Computer+Science+and+Engineering+Student+;🔧+Exploring+Tech+%26+Coding" alt="Typing SVG">
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+<img src="images/svg/header_en.svg"></img>
+<h1> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
 👩‍🎓Mtech student at MA College of Engineering, Koothamangalam<br/>
 🎨Making videos about computer science, tech, productivity and more on (https://www.youtube.com/@officiallymegh)<br/>
 🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
@@ -38,7 +33,7 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,7 +50,8 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
-<h3 align="left">Connect with me:</h3>  
+
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Connect with me </h1>
 <p align="left">
 <a href="https://codepen.io/@megha-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@megha-r" height="30" width="40" /></a>
 <a href="https://twitter.com/___me_ghx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___me_ghx_" height="30" width="40" /></a>
