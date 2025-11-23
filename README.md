@@ -1,12 +1,14 @@
 <img src="images/svg/header_en.svg"></img>
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
-👩‍🎓Mtech student at MA College of Engineering, Koothamangalam<br/>
-🎨Making videos about computer science, tech, productivity and more on (https://www.youtube.com/@officiallymegh)<br/>
-🌹Currently learning about DBMS: Design, Modeling, Testing and Automation
-
-<br/>
-<br>
-  
+<h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
+<p align="center">
+  <samp>
+    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Koothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
+    I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
+  </samp>
+  <br> <br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge" />
+</p>
+<br> 
 <!--
 [![Megha's GitHub stats](https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=radical)
 ](https://github.com/anuraghazra/github-readme-stats)
@@ -19,8 +21,6 @@
 <h3 align="left">Knock Knock</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee.com/megharanjith"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/megharanjith" /></a></p><br><br>
 -->
- ![](https://visitor-badge.laobi.icu/badge?page_id=megha-ranjith.visitor-badge)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&count_private=true&theme=darcula&hide_bordertrue&hide=issues,contribs&bg_color=00000000">
@@ -33,8 +33,8 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+<h1 align="center"> 💻 Tech Stack </h1>
+  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -48,18 +48,44 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Connect with me </h1>
-<p align="left">
-<a href="https://codepen.io/@megha-r" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@megha-r" height="30" width="40" /></a>
-<a href="https://twitter.com/___me_ghx_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___me_ghx_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/megha-r-47a260227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/megha-r-47a260227" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:24712882" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:24712882" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/meghx here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meghx here" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@megharanjith543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@megharanjith543" height="30" width="40" /></a>
+<h1 align="center"> 🏆 GitHub Trophies </h1>
+
+![](https://github-profile-trophy.vercel.app/?username=megha-ranjith&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Connect with me </h1>
+<p align="center">
+  <a href="https://codepen.io/megha-r" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="megha-r" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/___me_ghx_" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="___me_ghx_" height="30" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/megha-r-47a260227" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="megha-ranjith" height="30" width="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/24712882" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24712882" height="30" width="40" />
+  </a>
+
+  <a href="https://www.youtube.com/@meghx" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meghx" height="30" width="40" />
+  </a>
+
+  <a href="https://www.hackerrank.com/megharanjith543" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="megharanjith543" height="30" width="40" />
+  </a>
 </p>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <picture>
