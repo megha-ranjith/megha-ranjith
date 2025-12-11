@@ -2,7 +2,7 @@
 <h1 align="center"> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  A little about me... </h1>
 <p align="center">
   <samp>
-    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Koothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
+    A passionate Software Engineer currently pursuing M.Tech in CSE at MA College, Kothamangalam. With hands-on experience in software development, leadership, and project execution, I enjoy building impactful solutions that blend technology, creativity, and real-world problem-solving.<br><br>
     I’m constantly exploring new technologies, collaborating with teams, and contributing to projects that drive meaningful change and inspire innovation.
   </samp>
   <br> <br>
