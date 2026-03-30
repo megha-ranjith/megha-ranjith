@@ -23,9 +23,9 @@
 -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=github_dark&hide_border=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=megha-ranjith&show_icons=true&theme=github_dark&hide_border=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-ranjith&layout=compact&theme=github_dark&hide_border=true"/>
-<br>
+<br> -->
 
    <img src="https://streak-stats.demolab.com?user=megha-ranjith&theme=github-dark&hide_border=true"/>
   <br>
